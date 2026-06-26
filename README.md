@@ -138,30 +138,10 @@ Full-Stack Apps      ████████████████
 Cloud & DevOps       ███████████████
 ```
 
----
-
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=takefumi-yoshii34&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takefumi-yoshii34&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=takefumi-yoshii34&theme=github-dark-blue&hide_border=true" />
-</p>
-
----
-
 ## 🌍 Connect with Me
 
 * 💻 GitHub: https://github.com/takefumi-yoshii34
-* 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-* 🌐 Portfolio: https://YOUR_PORTFOLIO
-* 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+* 📧 Email: takefumi.yoshii.work@gmail.com
 
 ---
 
