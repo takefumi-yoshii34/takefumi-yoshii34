@@ -65,19 +65,10 @@ I build intelligent software that combines AI, automation, and modern cloud tech
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark)
-
----
-
 ## 🌍 Connect with Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- 🌐 Portfolio: https://YOUR_PORTFOLIO
-- 📧 Email: your.email@example.com
+- 🌐 Portfolio: https://github.com/takefumi-yoshii34
+- 📧 Email: takefumi.yoshii.work@gmail.com
 
 ---
 
